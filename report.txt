@@ -1,0 +1,17 @@
+Inizio della validazione
+
+Il numero dei campi è rispettato per ogni record
+
+Il campo <source> è univoco in tutto il file
+
+Il campo <feature> assume valori ammissibili per ogni record del file
+
+Il campo <attributes> contiene gene_id e transcript_id per ogni record del file
+
+Il campo <seqname> è univoco per ogni gene contenuto nel file
+
+I campi <end> e <start> sono ammissibili per ogni record del file
+
+Error at line 4
+	Il campo <score> non è nè un punto, nè un numero decimale (separato da punto), nè un numero intero
+
